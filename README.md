@@ -14,3 +14,5 @@ This mini application allows users to create, display, and delete text notes dir
 ### Purpose
 
 Practice DOM manipulation, event handling, and browser storage using vanilla JavaScript.
+
+*Page: https://ulithg18.github.io/3-JS-US/*
